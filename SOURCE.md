@@ -56,7 +56,7 @@ SMALLER SUB HEAD
 
 LINK 1
 
-`Lonely Planet`
+`Lonely Plan`et
 `http://www.lonelyplanet.com/saudi-arabia/riyadh`
 
 LINK 2
